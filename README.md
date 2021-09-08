@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey there, Hi there 🖐️
+
+- 🌱 I’m currently learning the basics of web development
+- 🤔 I’m looking for help with syntax
+- 😄 Pronouns (she/her)
 
 <!--
 **lburlew94/lburlew94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
