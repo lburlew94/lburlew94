@@ -1,5 +1,7 @@
 ### Hey there, Hi there 🖐️
 
+*under construction* 🚧🏗️👷‍♀️
+
 - 🌱 I’m currently learning the basics of web development
 - 🤔 I’m looking for help with syntax
 - 😄 Pronouns (she/her)
